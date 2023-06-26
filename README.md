@@ -5,10 +5,13 @@
 
 ### نکات:
 البته حواستون باشه این پکیجا حتما نصب باشه رو توزیع :
-tesseract-ocr
-tesseract-ocr-all
-imagemagick
-gnome-screenshot
+`tesseract-ocr`
+
+`tesseract-ocr-all`
+
+`imagemagick`
+
+`gnome-screenshot`
 
 ### لیست انجام کار:
 شاید یه لانچر براش زدم یا تا اون موقع رو نسخه ی اصلی کامیت نشسته باشه از فلت پک بگیریدش
