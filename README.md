@@ -1,10 +1,11 @@
 پروژه را به صورت زیر کلون کنید:
 
-```
+```bash
 git clone --recurse-submodules https://github.com/mdpe-ir/dialect.git
 ```
 و بعد با اجرای دستورات زیر ران بگیرید:
-‍‍```bash
+
+```bash
 cd dialect
 meson builddir --prefix=/usr/local
 sudo ninja -C builddir install
@@ -13,6 +14,7 @@ meson configure builddir -Dprefix=$(pwd)/builddir/testdir
 ninja -C builddir install
 ninja -C builddir run
 ```
+
 
 
 ### نکات:
