@@ -1,3 +1,0 @@
-[D-BUS Service]
-Name=@APP_ID@.SearchProvider
-Exec=@pkgdatadir@/search_provider
